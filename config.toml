@@ -1,4 +1,4 @@
-baseURL = 'https://chesgreen.github.io/'
+baseURL = 'https://github.com/chesgreen/chesgreen-hugo'
 languageCode = 'en-us'
 title = 'chesgreen.github.io'
 theme = "PaperMod"
