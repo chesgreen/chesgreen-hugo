@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://chesgreen.github.io/categories/</loc>
-  </url><url>
-    <loc>https://chesgreen.github.io/</loc>
-  </url><url>
-    <loc>https://chesgreen.github.io/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://github.com/chesgreen/chesgreen-hugo/archive/</loc><lastmod>2022-02-05T16:46:14-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/posts/2nd-post/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/tags/docker/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/tags/go/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/posts/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/tags/</loc><lastmod>2022-02-05T14:52:13-05:00</lastmod></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/about/</loc></url><url><loc>https://github.com/chesgreen/chesgreen-hugo/categories/</loc></url></urlset>

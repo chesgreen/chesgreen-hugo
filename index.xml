@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>https://chesgreen.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chesgreen.github.io/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>chesgreen.github.io</title><link>https://github.com/chesgreen/chesgreen-hugo/</link><description>Recent content on chesgreen.github.io</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 05 Feb 2022 14:52:13 -0500</lastBuildDate><atom:link href="https://github.com/chesgreen/chesgreen-hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Archive</title><link>https://github.com/chesgreen/chesgreen-hugo/archive/</link><pubDate>Sat, 05 Feb 2022 16:46:14 -0500</pubDate><guid>https://github.com/chesgreen/chesgreen-hugo/archive/</guid><description/></item><item><title>2nd Post</title><link>https://github.com/chesgreen/chesgreen-hugo/posts/2nd-post/</link><pubDate>Sat, 05 Feb 2022 14:52:13 -0500</pubDate><guid>https://github.com/chesgreen/chesgreen-hugo/posts/2nd-post/</guid><description>Getting the hang of blogging in GitHub. Testing the following tags Docker and Go</description></item><item><title>About</title><link>https://github.com/chesgreen/chesgreen-hugo/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/chesgreen/chesgreen-hugo/about/</guid><description>about</description></item></channel></rss>
